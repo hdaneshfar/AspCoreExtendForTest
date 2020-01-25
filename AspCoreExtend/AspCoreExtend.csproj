@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Hossein Daneshfar</Authors>
+    <Product>AspCoreExtendTest</Product>
+    <Description>Test for Create Nuget Package</Description>
+    <Copyright>copyright 2020</Copyright>
+    <RepositoryUrl>https://github.com/hdaneshfar/AspCoreExtend.git</RepositoryUrl>
+    <PackageTags>C#, Asp.net Core</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
